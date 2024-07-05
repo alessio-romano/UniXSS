@@ -103,6 +103,7 @@ def special_characters_mapping():
         "/": "%ef%bc%8f",
         "#": "%ef%b9%9f",
         "$": "%ef%b9%a9",
+        "|": "%ef%bd%9c",
         "\\": "%ef%b9%a8"
     }
 
